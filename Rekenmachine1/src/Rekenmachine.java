@@ -10,8 +10,8 @@ public class Rekenmachine {
 		
 		b.optellen(5, 6);
 		b.aftrekken(5, 7);
-		System.out.println(a.delen(6, 7));
-		System.out.println(a.vermenigvuldigen(5, 6));
+		System.out.println("delen van ruben =" + a.delen(6, 7));
+		System.out.println("vermenigvuldigen =" + a.vermenigvuldigen(5, 6));
 	}
 
 }
